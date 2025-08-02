@@ -58,6 +58,7 @@ O navegador precisa suportar o MediaRecorder. Funciona em Chrome, Edge e Firefox
 
 ## 📂 Estrutura do projeto
 
+```bash
 server/
 ├── docker/
 ├── src/
@@ -79,3 +80,4 @@ web/
 │   ├── lib/
 │   ├── pages/
 │   └── app.tsx
+```
