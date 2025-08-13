@@ -33,6 +33,9 @@ Aprender e aplicar conceitos de IA, desenvolvimento fullstack e integração com
 - Lucide Icons
 - ShadCN UI
 
+### Extra
+- Docker, Docker Compose
+
 ## 🚀 Como rodar
 
 ## Back
